@@ -1,0 +1,18 @@
+.customDiv{
+	margin: 3px;
+	min-height: 300px;
+	background-color: silver;
+	text-align: center;
+	font-size: large;
+}
+#brc{
+	background-color: yellow;
+}
+#menu{
+	background-color: 	#87CEFA;
+}
+.list{
+	width: 100px;
+	height: 50px;
+	background-color: white;
+}
